@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919251805438",
+    "firebase_url": "https://finaltp-85c1f.firebaseio.com",
+    "project_id": "finaltp-85c1f",
+    "storage_bucket": "finaltp-85c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919251805438:android:67ab6ecb414f8845",
+        "android_client_info": {
+          "package_name": "com.example.damiennivault.recyclerviewj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919251805438-qdud7mgrlms5e76tmj40471mfj14tmc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0eKa02scA8p-B3DiH8HxkBygSUhXZS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
